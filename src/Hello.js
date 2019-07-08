@@ -31,7 +31,7 @@ const Hello = props => {
     rect.addTo(graph);
   });
 
-  return <div id="myholder">Hi, I'm Mr.Dump</div>;
+  return <div id="myholder">Hi, I'm a HTML holder</div>;
 };
 
 export default Hello;
