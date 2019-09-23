@@ -3,10 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "joinjs": "^0.1.1",
+    "@material-ui/core": "^4.4.2",
+    "jointjs": "^3.0.2",
+    "jquery": "^3.4.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "svg-pan-zoom": "^3.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
