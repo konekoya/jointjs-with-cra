@@ -6056,6 +6056,11 @@ jest@24.7.1:
     import-local "^2.0.0"
     jest-cli "^24.7.1"
 
+jointjs-minimap@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/jointjs-minimap/-/jointjs-minimap-2.0.0.tgz#3833dfe683a3b7f8dceef45b7c6f22628cfa08f0"
+  integrity sha512-j8KWHL201lScJvL149EqkSAmMIfa++SQ3xAqpvDl6eyjwUALLcWZLGDbTaViAshJYtlkJlMjObqAYkqkyr79Yw==
+
 jointjs@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/jointjs/-/jointjs-3.0.2.tgz#3a891624bf00b9ceedccacce9295c8101cd8c83a"

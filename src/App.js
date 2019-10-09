@@ -7,6 +7,7 @@ import React from "react";
 // import Ports from "./Ports";
 // import OharaGraph from "./OharaGraph";
 import Pipeline from "./Pipeline";
+// import Toolbar from "./Toolbar";
 
 import "./App.css";
 

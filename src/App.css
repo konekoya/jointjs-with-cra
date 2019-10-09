@@ -5,19 +5,20 @@
   margin: 30px auto;
 }
 
-.element-node rect {
-  width: 260px;
-  height: 120px;
-  stroke: black;
-  stroke-width: 2;
+/* Toolbar */
+
+#toolbar {
+  background: #146dff;
 }
 
-.element-node .label {
-  font-size: 13px;
-  transform: translate(60px, 20px);
-}
-
-.port {
-  transform: translate(50px, 20px);
-  fill: #000;
+#flyPaper {
+  /* position: fixed; */
+  z-index: 100;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+  background: transparent;
+  border: 2px solid red;
+  /* opacity: 0.7; */
+  /* pointer-event: none; */
 }
