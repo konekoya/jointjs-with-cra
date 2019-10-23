@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import Button from "@material-ui/core/Button";
 import Paper from "@material-ui/core/Paper";
 import { makeStyles } from "@material-ui/core/styles";
-import { V } from "jointjs";
 import * as joint from "jointjs";
 import * as $ from "jquery";
 
@@ -255,11 +254,6 @@ const Pipeline = () => {
     const json = graph.toJSON();
     console.log(json);
   };
-
-  if (paper) {
-    var scale = V(paper.viewport).scale();
-    console.log(scale);
-  }
 
   return (
     <>
