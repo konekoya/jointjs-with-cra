@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.4.2",
-    "jointjs": "^3.0.2",
+    "jointjs": "^3.3.0",
     "jointjs-minimap": "^2.0.0",
     "jquery": "^3.4.1",
     "react": "^16.8.6",
